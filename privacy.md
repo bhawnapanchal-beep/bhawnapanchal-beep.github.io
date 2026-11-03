@@ -10,7 +10,7 @@ Only the Gmail accounts its owner chooses to connect, through Google's own permi
 
 ## How the data is used
 
-Email Hub searches and reads email so its owner can find information such as bills, receipts and attachments. Results are shown only to the owner. When the owner asks her AI assistant, Claude by Anthropic, a question about her email, the relevant email content is sent to that assistant to answer it.
+Email Hub searches and reads email so its owner can find information such as bills, receipts and attachments. At the owner's request it can save attachments to her computer and create draft emails in her own accounts. It never sends email: the owner reviews each draft and sends it herself. Results are shown only to the owner. When the owner asks her AI assistant, Claude by Anthropic, a question about her email, the relevant email content is sent to that assistant to answer it.
 
 ## Where the data is kept
 
